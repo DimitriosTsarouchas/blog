@@ -36,7 +36,10 @@
   --nav-cursor-color: #fcfcfc;
 
   /* Topbar */
-  --topbar-wrapper-bg: white;
+  --topbar-wrapper-bg:  radial-gradient(
+    circle,
+    rgb(33, 33, 33) 0%,
+    rgba(1, 1, 1, 1) 100%);
   --topbar-text-color: rgb(78, 78, 78);
   --search-wrapper-bg: #f5f5f5;
   --search-tag-bg: #f8f9fa;

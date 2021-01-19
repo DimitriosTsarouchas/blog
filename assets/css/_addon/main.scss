@@ -305,7 +305,7 @@ $sidebar-display: "sidebar-display";
   z-index: 50;
   border-bottom: 1px solid rgba(0, 0, 0, 0.07);
   box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.05);
-  background-color: var(--topbar-wrapper-bg);
+  background-color: #111111;
 }
 
 #topbar i { // icons
@@ -1477,10 +1477,10 @@ img {
         @extend %profile-ml;
 
         > a {
-          width: 6.2rem;
-          height: 6.2rem;
+          width: 10rem;
+          height: 10rem;
           &.mx-auto {
-            margin-left: 0 !important;
+            margin-left: 10% !important;
           }
         }
       }
@@ -1488,7 +1488,7 @@ img {
       .site-title {
         @extend %profile-ml;
         a {
-          font-size: 1.7rem;
+          font-size: 1.5rem;
           letter-spacing: 1px;
         }
       }
