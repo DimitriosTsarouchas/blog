@@ -25,6 +25,9 @@ github:
 twitter:
   username: DimitriosTsaro3            # change to your twitter username
 
+linkedin:
+  username: dimitrios-tsarouchas
+
 social:
   name: Dimitrios Tsarouchas                  # it will shows as the copyright owner in Footer
   email: dimitristsaroucha@gmail.com            # change to your email address
@@ -34,7 +37,7 @@ social:
     - https://github.com/DimitriosTsarouchas       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/dimitrios-tsarouchas/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
