@@ -317,7 +317,7 @@ $sidebar-display: "sidebar-display";
   color: gray;
   padding-left: 0.5rem;
   a:hover {
-    @extend %link-hover;
+    color: #eb7515;
   }
   span {
     &:not(:last-child) {
@@ -567,9 +567,9 @@ footer {
     padding: 0.3rem 0.5rem;
     margin: 0 0.35rem 0.5rem 0;
     &:hover {
-      background-color: #2a408e;
-      border-color: #2a408e;
-      color: #fff;
+      background-color: #f3f3f3;
+      border-color: #eb7515;
+      color: #eb7515;
       transition: none;
     }
   }
@@ -595,6 +595,7 @@ footer {
     @extend %no-bottom-border;
     &:hover {
       @extend %link-hover;
+      @extend %no-bottom-border;
     }
   }
 }
@@ -728,6 +729,7 @@ a {
     @extend %link-color;
     &:hover {
       @extend %link-hover;
+      @extend %no-bottom-border;
     }
   }
   .categories &,
@@ -959,7 +961,7 @@ img {
     @extend %tag-hover;
     border-bottom: none;
     text-decoration: none;
-    color: #d2603a;
+    color: #eb7515;
   }
 }
 
