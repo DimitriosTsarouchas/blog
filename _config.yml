@@ -15,7 +15,7 @@ description: >-                        # used by seo meta and the atom feed
  A personal cybersecurity blog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://dimitriostsarouchas.github.io'
+url: 'https://dimitrios-tsarouchas.tech/'
 
 author: Dimitrios Tsarouchas                  # change to your full name
 
@@ -45,7 +45,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: '/blog'
+baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/London
