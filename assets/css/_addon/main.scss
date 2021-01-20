@@ -78,7 +78,7 @@ $sidebar-display: "sidebar-display";
   a {
     @include sidebar-links;
     &:hover {
-      color: #fff;
+      color: #eb7515;
       @include no-text-decoration;
     }
   }
@@ -314,7 +314,7 @@ $sidebar-display: "sidebar-display";
 
 #breadcrumb {
   font-size: 1rem;
-  color: gray;
+  color: #eb7515;
   padding-left: 0.5rem;
   a:hover {
     color: #eb7515;
