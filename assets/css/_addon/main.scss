@@ -1479,10 +1479,10 @@ img {
         @extend %profile-ml;
 
         > a {
-          width: 10rem;
-          height: 10rem;
+          width: 7rem;
+          height: 7rem;
           &.mx-auto {
-            margin-left: 10% !important;
+            margin-left: 18% !important;
           }
         }
       }
@@ -1490,7 +1490,7 @@ img {
       .site-title {
         @extend %profile-ml;
         a {
-          font-size: 1.5rem;
+          font-size: 1.4rem;
           letter-spacing: 1px;
         }
       }
