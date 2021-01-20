@@ -23,14 +23,14 @@ github:
   username: DimitriosTsarouchas             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: DimitriosTsaro3            # change to your twitter username
 
 social:
   name: Dimitrios Tsarouchas                  # it will shows as the copyright owner in Footer
   email: dimitristsaroucha@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/DimitriosTsaro3      # change to your twitter homepage
     - https://github.com/DimitriosTsarouchas       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
