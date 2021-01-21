@@ -9,10 +9,10 @@
 # --------------------------
 title: Dimitrios Tsarouchas                          # the main title
 
-tagline: A personal cybersecurity blog.   # it will display as the sub-title
+tagline: This is my personal website where I upload content I find useful for me and share it to people that are interested in cybersecurity. Browse categories and find a topic that interests you. I hope you enjoy it!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- A personal cybersecurity blog.
+ This is my personal website where I upload content I find useful for me and share it to people that are interested in cybersecurity. Everything posted in this website is for ethical academic research and I am not responsible if anyone will use the information provided here for illegal activities.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://dimitrios-tsarouchas.tech/'
