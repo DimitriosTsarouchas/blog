@@ -55,7 +55,7 @@ body {
   background: var(--body-bg);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 /*--- sidebar layout ---*/
@@ -1479,10 +1479,10 @@ img {
         @extend %profile-ml;
 
         > a {
-          width: 7rem;
-          height: 7rem;
+          width: 9rem;
+          height: 9rem;
           &.mx-auto {
-            margin-left: 18% !important;
+            margin-left: 0% !important;
           }
         }
       }
