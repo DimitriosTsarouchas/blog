@@ -1477,6 +1477,7 @@ img {
 
       #avatar {
         @extend %profile-ml;
+        margin-bottom: 1.5rem;
 
         > a {
           width: 9rem;
@@ -1498,7 +1499,7 @@ img {
       .site-subtitle {
         @extend %profile-ml;
         word-spacing: 0;
-        margin-top: 0.3rem;
+        margin-top: .5rem;
       }
 
     } // .profile-wrapper (min-width: 1650px)
