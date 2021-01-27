@@ -74,9 +74,9 @@ $prompt-newer: "{{ site.data.label.post.button.next }}";
     @include btn-post-nav;
     color: var(--link-color);
     &:hover {
-      background: var(--link-color);
+      background: var(--btn-active-bg);
       color: #fff;
-      border-color: var(--link-color);
+      border-color: var(--btn-active-border-color);
     }
     &.disabled {
       @include btn-post-nav;
