@@ -49,6 +49,7 @@ layout: page
 {% for post in posts %}
 
   <div class="post-preview">
+    {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
     <h1>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>

@@ -5,7 +5,8 @@ date: 2021-01-23 20:55:00 +0800
 categories: [CTFs, TryHackMe]
 tags: [ctf, tryhackme, CVE-2019-14287]
 pin: true
-image: https://cdn.pixabay.com/photo/2013/07/13/12/31/penguin-159784_960_720.png
+featured-image: /assets/img/penguin.jpg
+featured-image-alt: Linux
 ---
 
 ![Kenobi](https://cdn.pixabay.com/photo/2013/07/13/12/31/penguin-159784_960_720.png)
