@@ -6,7 +6,7 @@ categories: [CTFs, TryHackMe]
 tags: [ctf, tryhackme, linux]
 pin: true
 featured-image: /assets/img/local-file-inclusion-vulnerability.jpg
-featured-image-alt: Kenobi
+featured-image-alt: LFI
 ---
 
 ![Local File Inclusion](/assets/img/local-file-inclusion-vulnerability.jpg)*Image from netsparker.com*
