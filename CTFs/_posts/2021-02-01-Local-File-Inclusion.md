@@ -1,5 +1,5 @@
 ---
-title: Local File Inclusion - LFI
+title: Local File Inclusion (LFI) Vulnerability
 author: Dimitrios Tsarouchas
 date: 2021-02-01 20:55:00 +0800
 categories: [CTFs, TryHackMe]
