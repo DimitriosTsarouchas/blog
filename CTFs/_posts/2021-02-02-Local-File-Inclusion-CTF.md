@@ -65,7 +65,7 @@ The password (rootpassword) found at `/etc/passwd` gave us access to flaconfeast
 We need to find a vector such as a binary that falconfeast can execute as superuser and exploit it to gain root access. By using `sudo -l` we can check if falconfeast is able to execute any command as a superuser in that machine.
 
 ![Sudo -l](/assets/img/LFI/sudo-l.png)
-*What falconfeast can execute as superuser?*
+*What commands falconfeast can execute as superuser?*
 
 As we can see falconfeast can execute as the root user the `/usr/bin/socat` command. 
 
