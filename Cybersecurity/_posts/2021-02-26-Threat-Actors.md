@@ -28,6 +28,7 @@ Open-source intelligence is actually the art of collecting information from publ
 There are two types of OSINT: the offensive that deals with the harvesting of all the required data in order to prepare the attack field, and the defensive that deals with the collection of data leaked in previous breaches and any other security incidents relevant to the target.
 
 ## Threat Actors
+
 ![Threat actors](/assets/img/threat actors.PNG)
 *Threat Actors*
 
