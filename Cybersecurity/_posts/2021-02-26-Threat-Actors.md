@@ -5,7 +5,7 @@ date: 2021-02-26 20:55:00 +0800
 categories: [Cybersecurity, Information Security]
 tags: [threat actors, hacktivists, script kiddies, APTs, information security]
 pin: true
-featured-image: /assets/img/threat actorsfront.PNG
+featured-image: ../assets/img/threat actorsfront.PNG
 featured-image-alt: 
 ---
 
