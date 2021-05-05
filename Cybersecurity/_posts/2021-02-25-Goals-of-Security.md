@@ -2,8 +2,8 @@
 title: Goals of Security
 author: Dimitrios Tsarouchas
 date: 2021-02-25 20:55:00 +0800
-categories: [Information Security]
-tags: [security goals, cia, cia triad]
+categories: [Cybersecurity, Information Security]
+tags: [security goals, cia triad, information security]
 pin: true
 featured-image: https://ptgmedia.pearsoncmg.com/images/chap2_9780789753250/elementLinks/02fig01_alt.jpg
 featured-image-alt: 

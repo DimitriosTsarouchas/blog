@@ -11,6 +11,12 @@ order: 4
 ---
 
 
-This is my personal website where I upload content I find useful for me and share it to people that are interested in cybersecurity. Everything posted in this website is for ethical academic research and I am not responsible if anyone will use the information provided here for illegal activities.
+Welcome to my personal website! 
+
+My name is Dimitris, I am a Cybersecurity graduate and Information Engineering professional with years of experience in private sectors. 
+
+Here I upload content about cybersecurity, practical examples such as capture the flags (CTFs) and other IT stuff I find useful, and share it to people who are interested in cybersecurity.
+
+**Note:**  _Information posted in this website is only for educational purposes and should be used for ethical activities and I do not encourage anyone to use the provided information for illegal activities. I disclaim any liability in the event that any of the information provided on this site is used for illegal activities_.
 
 <script src="https://tryhackme.com/badge/44835"></script>
