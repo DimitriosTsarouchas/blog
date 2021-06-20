@@ -5,7 +5,7 @@ date: 2021-06-20 08:55:00 +0800
 categories: [Windows, Active Directory]
 tags: [active directory, windows]
 pin: true
-featured-image: /assets/img/AD/Active-Directory.jpg
+featured-image: https://kevinholman.com/wp-content/uploads/2018/12/image-243.png
 featured-image-alt: Microsoft Active Directory
 ---
 
