@@ -5,7 +5,7 @@ date: 2021-06-20 08:55:00 +0800
 categories: [Windows, Active Directory]
 tags: [active directory, windows]
 pin: true
-featured-image: https://kevinholman.com/wp-content/uploads/2018/12/image-243.png
+featured-image: /assets/img/AD/Active-Directory.jpg
 featured-image-alt: Microsoft Active Directory
 ---
 
@@ -28,7 +28,7 @@ Objects stored in the AD database have a big number of attributes, discrete perm
 
 AD provides administrators with a centralised location for managing the authentication and authorisation of the organisational identities. The following sections introduce Active Directory's basic concepts, its structure and its role in an organisation. [1,2]
 
-![Microsoft Active Directory](assets/img/AD/Active-Directory.jpg)*Microsoft Active Directory*
+![Microsoft Active Directory](/assets/img/AD/Active-Directory.jpg)*Microsoft Active Directory*
 
 ### Active Directory Functionality
 Active Directory is built on top of Windows 2000 and is Microsoft's **Network Operating System (NOS)**. The term network operating system or "NOS" is used to describe a variety of resource types such as user, computer and group accounts. These resources are stored in a central repository, called Active Directory, which contains network operating system information. 
