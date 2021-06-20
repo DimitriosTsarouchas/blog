@@ -110,14 +110,14 @@ SID is used for identifying a trustee or security principal and is a variable-le
 
 As mentioned earlier, the object's GUID is a value that uniquely identifies a user object. However, it is not based on the directory hierarchy, and it is difficult to remember its value. Therefore, there must be another way for uniquely identify objects within Active Directory, and that is called a **Distinguished Name (DN)** [1]. A DN can be compared to a postal address that uses a hierarchical route to locate a person, starting from the country, going to the county, then to the city, the street, and finally the house number. Distinguished Names use the syntax and rules of the LDAP standard to represent an AD object [1]. 
 
-For example, in Figure 2, a path to the root is **DC= university**, **DC=local**. To generate DNs, three types of AD naming attributes are used [2]:
+For example, in Object Identifiers figure, a path to the root is **DC= university**, **DC=local**. To generate DNs, three types of AD naming attributes are used [2]:
 *	**organationalUnitName (OU)**, which represents the root domain. In other words, the OU where the object is located.
 *	**domainComponent (DC)**, which represents the domain name and the DN attribute.
 *	**commonName (CN)**, which refers to items and containers in the Directory.
 
-According to Figure 2, when returning the query for the user account **dtsarouchas**, its distinctive name is "**CN = Dimitrios Tsarouchas, CN = Users, DC = university, DC = local". "DC = university, DC = local**" represents the domain name, "**CN = Users**" represents the user container, and finally "**CN = Dimitrios Tsarouchas**" represents the actual object name.
+According to Object Identifiers figure, when returning the query for the user account **dtsarouchas**, its distinctive name is "**CN = Dimitrios Tsarouchas, CN = Users, DC = university, DC = local". "DC = university, DC = local**" represents the domain name, "**CN = Users**" represents the user container, and finally "**CN = Dimitrios Tsarouchas**" represents the actual object name.
 
-A **Relative Distinguished Name (RDN)** is a unique value referring to an object in its parent container. Taking the example in Figure 2, "CN= Dimitrios Tsarouchas" is the RDN for that user object. Many objects can have the same RDN under one condition; these items must be in separate containers. [1, 2]
+A **Relative Distinguished Name (RDN)** is a unique value referring to an object in its parent container. Taking the example in Object Identifiers figure, "**CN= Dimitrios Tsarouchas**" is the RDN for that user object. Many objects can have the same RDN under one condition; these items must be in separate containers. [1, 2]
 
 In a later post, we will discuss Active Directory authentication mechanisms giving a deep explanation of how NTLM and Kerberos authentication protocols work. Stay tuned!
 
